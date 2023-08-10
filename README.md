@@ -1,4 +1,4 @@
-# SPARKY
+# Peachy
 A electrician website with contact form and technical information about building and securing your habitation or industrial complex
 
 - add construction site pictures
